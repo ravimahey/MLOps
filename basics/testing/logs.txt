@@ -74,7 +74,7 @@ validation PASSED.
 Execution complete.
 
 [2010-04-24 07:52:01,268] DEBUG - [main] BulkOpsClient.submitImportRequest(): 
-Execution begin.
+Execution beg                                                                                                               in.
 
 [2010-04-24 07:52:01,268] DEBUG - [main] BulkOpsClient.submitImportRequest(): 
 Sending CSV Data Segments.
